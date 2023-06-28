@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammadHosseinEtemadikia
 - 👀 I’m interested in GraphicDesign
 - 🌱 I’m currently learning VideoEditing
-- 💞️ I’m looking to collaborate on a Advertisment co.
+- 💞️ I’m looking to collaborate on Advertisment projects
 - 📫 How to reach me ...
   
 <!---
